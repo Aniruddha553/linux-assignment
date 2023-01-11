@@ -1,0 +1,11 @@
+this is a new linux file that i created.
+i created this file using vi editor.
+vi is a great editor . 
+i think i will be using vi from now on.
+linux is a great OS for managing many different users.
+i makes managing user accounts easier.
+thats why most companies prefer linux over windows or mac OS
+i think i will be using linux from now on.
+it provides an interactive GUI which is much easier to user.
+the linux terminal is much easy to use and understand and makes the processes easir
+

@@ -1,0 +1,6 @@
+this is my first linux assignment.
+in my previous file i created and deleted 3 lines using the dd and 3dd command.
+we just have to place the cursor at the start of the line then we jut have to 
+exit insert mode and type (:dd) od (:3dd) to delete one line or three lines 
+simultaneously.
+now i will be merging this file with my previous file using the cat command
